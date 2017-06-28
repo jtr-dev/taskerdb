@@ -1,6 +1,6 @@
 {
   "name": "taskerdb",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "documentdb wrapper for a quick CRUD task class",
   "main": "lib/index",
   "scripts": {
